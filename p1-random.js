@@ -1,6 +1,6 @@
 /*
     CIT 281 Project 1
-    Name: Shinault
+    Name: sshina
 */
 // Courtesy of the assignment page
 function getRandomInteger(min, max) {
